@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Forms">
+      <UniqueIdentifier>{c943e2f3-b204-4144-acb1-6bba457dc486}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Logos">
+      <UniqueIdentifier>{1c09ec0f-f726-4183-b6d5-8c68e327319c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Home.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MyForm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="formAbout.cpp">
+      <Filter>Header Files\Forms</Filter>
+    </ClCompile>
+    <ClCompile Include="formSearch.cpp">
+      <Filter>Header Files\Forms</Filter>
+    </ClCompile>
+    <ClCompile Include="formDelete.cpp">
+      <Filter>Header Files\Forms</Filter>
+    </ClCompile>
+    <ClCompile Include="formEdit.cpp">
+      <Filter>Header Files\Forms</Filter>
+    </ClCompile>
+    <ClCompile Include="formAdd.cpp">
+      <Filter>Header Files\Forms</Filter>
+    </ClCompile>
+    <ClCompile Include="loading.cpp">
+      <Filter>Header Files\Forms</Filter>
+    </ClCompile>
+    <ClCompile Include="Dictionary.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HashMap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="List.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Trie.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Home.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MyForm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="formAbout.h">
+      <Filter>Header Files\Forms</Filter>
+    </ClInclude>
+    <ClInclude Include="formSearch.h">
+      <Filter>Header Files\Forms</Filter>
+    </ClInclude>
+    <ClInclude Include="formDelete.h">
+      <Filter>Header Files\Forms</Filter>
+    </ClInclude>
+    <ClInclude Include="formEdit.h">
+      <Filter>Header Files\Forms</Filter>
+    </ClInclude>
+    <ClInclude Include="formAdd.h">
+      <Filter>Header Files\Forms</Filter>
+    </ClInclude>
+    <ClInclude Include="loading.h">
+      <Filter>Header Files\Forms</Filter>
+    </ClInclude>
+    <ClInclude Include="Dictionary.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HashMap.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="List.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Trie.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\Downloads\list-2-32.ico">
+      <Filter>Source Files\Logos</Filter>
+    </Image>
+    <Image Include="..\..\Downloads\cJp1y_2u_200x200-removebg-preview (1).ico">
+      <Filter>Source Files\Logos</Filter>
+    </Image>
+    <Image Include="..\..\Downloads\OIP2_out3.jpg">
+      <Filter>Source Files\Logos</Filter>
+    </Image>
+    <Image Include="..\..\Downloads\edit-11-48.ico">
+      <Filter>Source Files\Logos</Filter>
+    </Image>
+    <Image Include="..\..\Downloads\x-mark-2-48.ico">
+      <Filter>Source Files\Logos</Filter>
+    </Image>
+    <Image Include="..\..\Downloads\info-4-48.ico">
+      <Filter>Source Files\Logos</Filter>
+    </Image>
+    <Image Include="..\..\Downloads\search-14-48.ico">
+      <Filter>Source Files\Logos</Filter>
+    </Image>
+    <Image Include="..\..\Downloads\add-48.ico">
+      <Filter>Source Files\Logos</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Dictionary.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
