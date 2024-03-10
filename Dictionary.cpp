@@ -3,12 +3,12 @@
 
 
 #include "Dictionary.hpp"
-#include <boost/algorithm/string.hpp>
+// #include <boost/algorithm/string.hpp>
 #include <fstream>
 #include <string>
 #include <sstream>
 #include <iostream>
-using namespace boost::algorithm;
+// using namespace boost::algorithm;
 using namespace std;
 
 
@@ -20,8 +20,6 @@ Dictionary& Dictionary::getInstance() {
 Dictionary::~Dictionary() {
 	// clear the tree
 	words.clear();
-
-
 	
 }
 
