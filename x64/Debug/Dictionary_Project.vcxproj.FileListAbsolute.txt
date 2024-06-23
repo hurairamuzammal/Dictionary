@@ -19,4 +19,3 @@ C:\Users\Huraira\Extras\Dictionary\x64\Debug\DictionaryProject.Home.resources
 C:\Users\Huraira\Extras\Dictionary\x64\Debug\DictionaryProject.loading.resources
 C:\Users\Huraira\Extras\Dictionary\x64\Debug\DictionaryProject.MyForm.resources
 C:\Users\Huraira\Extras\Dictionary\x64\Debug\Dictionary_Project.vcxproj.GenerateResource.cache
-C:\Users\Huraira\Extras\Dictionary\x64\Debug\Dictionary_Project.exe

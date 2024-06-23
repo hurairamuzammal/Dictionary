@@ -1,17 +1,2 @@
-﻿  Dictionary.cpp
-C:\Users\Huraira\Extras\Dictionary\Dictionary.cpp(50,71): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
-  formAbout.cpp
-  formAdd.cpp
-  formDelete.cpp
-  formEdit.cpp
-  formSearch.cpp
-  HashMap.cpp
-  Home.cpp
-  List.cpp
-  loading.cpp
-  MyForm.cpp
-  Trie.cpp
-  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
-  Generating Code...
-  Dictionary.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
-  Dictionary_Project.vcxproj -> C:\Users\Huraira\Extras\Dictionary\x64\Debug\Dictionary_Project.exe
+﻿  Dictionary.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Dictionary_Project.vcxproj -> C:\Users\Huraira\Extras\dictionary_reassembled\x64\Debug\Dictionary_Project.exe
